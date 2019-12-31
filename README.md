@@ -1,13 +1,33 @@
-## Udemy-TC2020FDBWD4
+## Udemy-TC2020FDBWD5
 <!-- PROJECT SHIELDS -->
 ![Udemy][udemy-shield]
 ![Flutter][flutter-shield]
 ![Android][android-shield]
 ![Apple][apple-shield]
 
-Project available to access at: https://nitaicharan.github.io/Udemy-TC2020FDBWD4/
+Project available to access at: https://nitaicharan.github.io/Udemy-TC2020FDBWD5/
 
-<!--[![](Udemy-TC2020FDBWD4.png)](https://nitaicharan.github.io/Udemy-TC2020FDBWD4/)-->
+<!--[![](Udemy-TC2020FDBWD5.png)](https://nitaicharan.github.io/Udemy-TC2020FDBWD5/)-->
+
+## About course
+This project was part of the Udemy course "The Complete 2020 Flutter Development Bootcamp with Dart" by Angela Yu.
+
+- Course: [Link][course-url]
+- Instructor: [Link][instructor-url]
+- Description: [Link][course-url]
+
+### Certificate
+This certificate above verifies that [Nitai Charan][udemy-url] successfully completed the course [The Complete 2020 Flutter Development Bootcamp with Dart][course-url] on 12/27/2019 as taught by [Angela Yu][instructor-url] on Udemy. The certificate indicates the entire course was completed as validated by the student.
+
+[![](certificate.jpg)][certificate-url]
+
+## Contact
+[![Gmail][gmail-shield]][gmail-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Github][github-shield]][github-url]
+[![Udemy][udemy-shield]][udemy-url]
+[![Instagram][instagram-shield]][instagram-url]
+[![Twitter][twitter-shield]][twitter-url]
 
 ## Deploy
 ```
@@ -20,27 +40,6 @@ git push origin <branch>
 git subtree push --prefix build/web origin gh-pages
 git push origin `git subtree split --prefix build/web/ master`:gh-pages --force
 ```
-
-## About course
-This project was part of the Udemy course "The Complete 2020 Flutter Development Bootcamp with Dart" by Angela Yu.
-
-- Course: [Link][course-url]
-- Instructor: [Link][instructor-url]
-- Description: [Link][course-url]
-
-## Certificate
-[![](certificate.jpg)][certificate-url]
-
-### Certificate description
-This certificate above verifies that [Nitai Charan][udemy-url] successfully completed the course [The Complete 2020 Flutter Development Bootcamp with Dart][course-url] on 12/27/2019 as taught by [Angela Yu][instructor-url] on Udemy. The certificate indicates the entire course was completed as validated by the student.
-
-## Contact
-[![Gmail][gmail-shield]][gmail-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Github][github-shield]][github-url]
-[![Udemy][udemy-shield]][udemy-url]
-[![Instagram][instagram-shield]][instagram-url]
-[![Twitter][twitter-shield]][twitter-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
